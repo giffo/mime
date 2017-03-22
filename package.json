@@ -1,10 +1,10 @@
 {
 	
 	"name": "giffo-mime",
-	"version": "0.0.1",
-	"description": "giffo's mime method for node.js",
+	"version": "0.0.2",
+	"description": "my mime method for node.js",
 	"author": "giffo <github@giffo.org>",
-	"main": "mime.js",
+	"main": "index.js",
 		
 	"repository": {
 		"type":"git",

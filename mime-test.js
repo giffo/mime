@@ -1,5 +1,5 @@
 ﻿
-var mime = require("./mime.js");
+var mime = require("./index.js");
 
 // simple at that
 console.log(mime("hello.html"));
