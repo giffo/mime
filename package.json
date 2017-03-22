@@ -1,0 +1,22 @@
+{
+	
+	"name": "giffo-mime",
+	"version": "0.0.1",
+	"description": "giffo's mime method for node.js",
+	"author": "giffo <github@giffo.org>",
+	"main": "mime.js",
+		
+	"repository": {
+		"type":"git",
+		"url":"https://github.com/giffo/mime"
+	},
+	
+	"bugs": {
+		"url": "https://github.com/giffo/mime/issues" 
+	},
+	
+	"keywords": [
+		"giffo-mime", "mime"
+	],
+	"license": "MIT"
+}
